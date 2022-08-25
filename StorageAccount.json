@@ -6,7 +6,7 @@
 
 "type": "Microsoft.Storage/storageAccounts",
 "apiVersion": "2021-09-01",
-"name":"DemoStorage",
+"name":"demostorage01",
 "location": "East US",
 "sku": {
     "name": "Standard_LRS"
